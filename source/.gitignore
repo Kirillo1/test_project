@@ -1,5 +1,5 @@
 *.sqlite3
-venv
+../venv
 virtualenv
 *.pyc
 .idea
@@ -10,5 +10,3 @@ settings_local.py
 local_settings.py
 .python-version
 .env
-cache
-tmp

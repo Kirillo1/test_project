@@ -1,0 +1,164 @@
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+DEBUG:urllib3.connectionpool:https://nominatim.openstreetmap.org:443 "GET /search?format=json&limit=1&dedupe=0&q=89.80059530838025&q=55.33131506353899&q=89.80054953023337&q=55.33125997891148&q=89.80119922777946&q=55.331097729200074&q=89.8012432452284&q=89.8012432452284 HTTP/1.1" 200 None
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "GET /api/status HTTP/1.1" 200 179
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "POST /api/interpreter HTTP/1.1" 200 234
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "GET /api/status HTTP/1.1" 200 179
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "POST /api/interpreter HTTP/1.1" 200 13967
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "GET /api/status HTTP/1.1" 200 181
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "POST /api/interpreter HTTP/1.1" 200 14076
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "GET /api/status HTTP/1.1" 200 179
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "POST /api/interpreter HTTP/1.1" 200 14982
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "GET /api/status HTTP/1.1" 200 181
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): overpass-api.de:443
+DEBUG:urllib3.connectionpool:https://overpass-api.de:443 "POST /api/interpreter HTTP/1.1" 200 14982
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib:CACHEDIR=/home/ghost/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/ghost/.cache/matplotlib/fontlist-v330.json
