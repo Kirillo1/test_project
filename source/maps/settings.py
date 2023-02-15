@@ -122,7 +122,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'webapp')
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:8000",
-    "91.106.207.103"
+    "http://193.168.46.75"
 ]
 
 
